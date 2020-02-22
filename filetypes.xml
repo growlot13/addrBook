@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="lab21" type="CLASS" />
+      <mapping pattern="MainWindow" type="CLASS" />
+      <mapping pattern="GUI" type="CLASS" />
+      <mapping pattern="gui" type="JAVA" />
+      <mapping pattern="mainWndw" type="JAVA" />
+      <mapping pattern="mainWind" type="JAVA" />
+    </extensionMap>
+  </component>
+</application>
